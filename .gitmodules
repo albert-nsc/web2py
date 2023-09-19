@@ -4,3 +4,6 @@
 [submodule "gluon/packages/yatl"]
 	path = gluon/packages/yatl
 	url = https://github.com/web2py/yatl
+[submodule "applications/bulk_import"]
+	path = applications/bulk_import
+	url = git@github.com:albert-nsc/bulk_import.git
