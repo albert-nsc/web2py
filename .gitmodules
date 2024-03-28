@@ -1,9 +1,9 @@
-[submodule "gluon/packages/dal"]
-	path = gluon/packages/dal
-	url = https://github.com/web2py/pydal.git
 [submodule "gluon/packages/yatl"]
 	path = gluon/packages/yatl
 	url = https://github.com/web2py/yatl
 [submodule "applications/bulk_import"]
 	path = applications/bulk_import
 	url = git@github.com:albert-nsc/bulk_import.git
+[submodule "gluon/packages/dal"]
+	path = gluon/packages/dal
+	url = https://github.com/web2py/pydal.git
