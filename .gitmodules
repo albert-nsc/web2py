@@ -1,3 +1,6 @@
 [submodule "gluon/packages/dal"]
 	path = gluon/packages/dal
 	url = https://github.com/web2py/pydal.git
+[submodule "applications/pstbulkimport"]
+	path = applications/pstbulkimport
+	url = git@github.com:albert-nsc/pstbulkimport.git
