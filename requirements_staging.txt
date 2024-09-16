@@ -15,7 +15,6 @@ backcall==0.2.0
 backports.csv==1.0.7
 bcrypt==3.2.0
 beautifulsoup4==4.9.3
-black==22.1.0
 bottle==0.12.19
 Brotli==1.1.0
 bs4==0.0.1
