@@ -4,3 +4,6 @@
 [submodule "applications/pstbulkimport"]
 	path = applications/pstbulkimport
 	url = git@github.com:albert-nsc/pstbulkimport.git
+[submodule "applications/pstattbns"]
+	path = applications/pstattbns
+	url = git@github.com:albert-nsc/pstattbns.git
